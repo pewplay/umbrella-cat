@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/pewplay/pewplay/main/schema/game.schema.json",
+  "title": "Umbrella Cat",
+  "description": "Tap to lift a cat with an umbrella through rainy rooftops, dodge chimneys and neon signs and catch fish. Free one-tap game in your browser.",
+  "about": "Umbrella Cat is a one-tap flying game set on a rainy night above the city. A brave black cat floats from roof to roof holding an orange umbrella: every tap opens the umbrella and lifts the cat a little higher, and gravity does the rest.\n\nThe path is blocked by brick chimneys rising from below and glowing shop signs hanging from above. Slip through the gaps to score a point each time, and grab the floating fish for two bonus points. The further you go, the faster the city scrolls and the narrower the gaps get.\n\nRounds are short and the controls are as simple as they get, which makes it easy to say one more try. Your best score is saved on your device.",
+  "howToPlay": "Tap, click or press Space to make the cat rise; release and it falls. Pass between the chimneys and the hanging signs to score one point for each gap, and touch the fish for two extra points. Hitting an obstacle, the roofs or the top of the screen ends the run.",
+  "controls": [
+    {
+      "input": "Tap / Click",
+      "action": "Lift the umbrella"
+    },
+    {
+      "input": "Space / ↑ / W",
+      "action": "Lift the umbrella"
+    },
+    {
+      "input": "Esc / P",
+      "action": "Pause"
+    }
+  ],
+  "tips": [
+    "Tap in a steady rhythm instead of many quick taps in a row.",
+    "Stay near the middle of the screen so you can reach both high and low gaps.",
+    "Only go for a fish if it is on your way to the next gap.",
+    "Watch the next gap as soon as you clear the current one, especially when the game speeds up."
+  ],
+  "faq": [
+    {
+      "question": "Is Umbrella Cat free to play?",
+      "answer": "Yes. Umbrella Cat is free and runs in your browser, with no download or sign-up."
+    },
+    {
+      "question": "Does it work on phones and tablets?",
+      "answer": "Yes. Just tap anywhere on the screen. It works in portrait and landscape; landscape shows more of the path ahead."
+    },
+    {
+      "question": "Does the game get harder?",
+      "answer": "Yes. With every point the city scrolls a little faster and the gaps between obstacles slowly get narrower."
+    }
+  ],
+  "category": "Arcade",
+  "tags": [
+    "one tap",
+    "flying",
+    "cat",
+    "arcade",
+    "endless"
+  ],
+  "author": "PewPlay",
+  "playMode": "SinglePlayer",
+  "orientation": "any",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ],
+  "added": "2026-11-26",
+  "draft": false
+}
